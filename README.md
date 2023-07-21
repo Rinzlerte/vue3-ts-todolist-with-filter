@@ -1,4 +1,4 @@
-# todos
+# todos Vue + TS - todo list app with filter
 
 ## Project setup
 ```
